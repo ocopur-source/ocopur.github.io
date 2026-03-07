@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Site haritasýnýn yerini Google'a bildir
+Sitemap:https://ocopur-source.github.io/spell/sitemap.xml
